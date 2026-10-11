@@ -1,0 +1,7 @@
+{
+  "name": "Pac-Man",
+  "description": "Classic arcade Pac-Man game with retro visuals, authentic ghost AI, sound effects, and smooth gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
